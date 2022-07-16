@@ -10,4 +10,4 @@ About me
 📫 How to reach me 
 - Facebook: https://www.facebook.com/trduongng1403/
 - Gmail: nguyentrieuduong14032002@gmail.com
-
+- Linkedin: https://www.linkedin.com/in/trieu-duong-nguyen-685a99200/ (not really good yet)
