@@ -12,3 +12,5 @@ About me
 - Facebook: https://www.facebook.com/trduongng1403/
 - Gmail: nguyentrieuduong14032002@gmail.com
 - Linkedin: https://www.linkedin.com/in/trieu-duong-nguyen-685a99200/ (not really good yet)
+
+<a href="https://app.daily.dev/tgound"><img src="https://api.daily.dev/devcards/380184f8eb9d4e35a3763d9067d5022c.png?r=ik0" width="400" alt="Duong Nguyen Trieu's Dev Card"/></a>
