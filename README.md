@@ -1,4 +1,4 @@
-**About me**
+<h3 align="left">About me:</h3>
 - 👋 Hi, I’m @tgound1403
 - My full name is Nguyen Trieu Duong
 - I'm learning in Ton Duc Thang University
@@ -8,10 +8,14 @@
 - I also have some skills in Photoshop, Illustrator, AdobeXD, Lightroom and Figma for my love with Art and also the UI for my app
 - My web portfolio: https://tgound1403.github.io/mysite (not finished yet)
 
-**How to reach me** 
-- Facebook: https://www.facebook.com/trduongng1403/
-- Gmail: nguyentrieuduong14032002@gmail.com
-- Linkedin: https://www.linkedin.com/in/trieu-duong-nguyen-685a99200/ (not really good yet)
+
+<h3 align="left">How to reach me:</h3>
+<p align="left">
+<a href="https://dev.to/tgound1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tgound1403" height="30" width="40" /></a>
+<a href="https://fb.com/trduongng1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tgound1403" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/trieu-duong-nguyen-685a99200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="tgound1403" height="30" width="40" /></a>
+</p>
+Gmail: nguyentrieuduong14032002@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgound1403&label=Profile%20views&color=0e75b6&style=flat" alt="tgound1403" /> </p>
 
