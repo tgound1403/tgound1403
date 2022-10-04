@@ -13,6 +13,8 @@ About me
 - Gmail: nguyentrieuduong14032002@gmail.com
 - Linkedin: https://www.linkedin.com/in/trieu-duong-nguyen-685a99200/ (not really good yet)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhct&label=Profile%20views&color=0e75b6&style=flat" alt="minhct" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgound1403" alt="tgound1403" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
