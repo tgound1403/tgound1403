@@ -17,6 +17,7 @@
 </p>
 Gmail: nguyentrieuduong14032002@gmail.com
 
+<h3 align="left">My Github trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgound1403&column=-1&theme=algolia" alt="tgound1403" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgound1403&label=Profile%20views&color=0e75b6&style=flat" alt="tgound1403" /> </p>
