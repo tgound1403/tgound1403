@@ -1,15 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgound1403&label=Profile%20views&color=0e75b6&style=flat-square" alt="tgound1403" /> </p>
 
 <h3 align="left">About me:</h3>
-- 👋 Hi, I’m @tgound1403
-- My full name is Nguyen Trieu Duong
-- I'm learning in Ton Duc Thang University
-- 🌱 I’m currently learning computer science but I have more interest in Software Development
-- 👀 I’m interested in design UI for an app
-- I have learned C, Java, Python at my school and I have some self-study time with HTML/CSS, MERN Web, Flutter, Kotlin
-- I also have some skills in Photoshop, Illustrator, AdobeXD, Lightroom and Figma for my love with Art and also the UI for my app
-- My web portfolio: tgound-space.netlify.com
-
+<i>I'm a junior student at Ton Duc Thang University in Computer Science. I indulge in technology, art and love to make these artworks come to life with code. My goal in the future is to become a T-shaped developer who is fluent in Frontend Developer for both Web and Mobile and has some UX/UI design skills. I'm confident in my self-study skill as I've studied many new technologies and apps to support my passion. Besides programming, I also like playing the guitar, wandering around and taking photos.</i>
+<br/>
+<a href='tgound-space.netlify.com' tarrget='_blank'>My web portfolio</a> 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
