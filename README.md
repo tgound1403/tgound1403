@@ -8,7 +8,7 @@
 - 👀 I’m interested in design UI for an app
 - I have learned C, Java, Python at my school and I have some self-study time with HTML/CSS, MERN Web, Flutter, Kotlin
 - I also have some skills in Photoshop, Illustrator, AdobeXD, Lightroom and Figma for my love with Art and also the UI for my app
-- My web portfolio: https://tgound1403.github.io/mysite (not finished yet)
+- My web portfolio: tgound-space.netlify.com
 
 
 <h3 align="left">How to reach me:</h3>
