@@ -11,7 +11,7 @@ MongoDB, Google Maps API, Google Gemini API</li>
 <li>Language skills: English Upper-intermediate level, Vietnamese (Native speaker)</li>
 </ul>
 <br/>
-<a href='https://tgound-space.netlify.com' tarrget='_blank'>My web portfolio</a> 
+<a href='https://tgound-space.netlify.app' tarrget='_blank'>My web portfolio</a> 
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
