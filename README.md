@@ -1,16 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgound1403&label=Profile%20views&color=0e75b6&style=flat-square" alt="tgound1403" /> </p>
 
-<h3 align="left">About me:</h3>
-1 year of experience in Mobile Development
-<ul>
-<li>Programming languages: Dart, Kotlin, Java, Javascript</li>
-<li>Technologies: Flutter, Android SDK, Firebase, Jetpack Compose, React Native, RESTful API, SQL, Firebase,
-MongoDB, Google Maps API, Google Gemini API</li>
-<li>Tools: Android Studio, Postman, Jira, Git, Bitbucket, Github, Figma, Adobe tools</li>
-<li>Soft skills: Self-study, Time management, Teamwork, Critical thinking, Problem-solving</li>
-<li>Language skills: English Upper-intermediate level, Vietnamese (Native speaker)</li>
-</ul>
-<br/>
+<h3 align="left">👋 Hi, I’m Nguyen Trieu Duong</h3>
+
+Android Developer | Flutter Developer
+Thu Duc, Ho Chi Minh City, Vietnam
+
+🚀 About Me
+
+I am a dedicated mobile developer with hands-on experience in both Android and Flutter, passionate about building impactful apps and exploring the intersection of AI and mobile technology. My journey spans professional roles and personal projects, with a focus on clean code, intuitive UX, and reliable performance.
+
+🛠️ Skills
+ • Programming Languages: Dart, Kotlin, Java
+ • Technologies: Flutter, Android SDK, Jetpack Compose, Firebase, Fastlane CI/CD, RESTful API, BLE, Room, RealmDB, JUCE, OpenStreetMap
+
 <a href='https://tgound-space.netlify.app' tarrget='_blank'>My web portfolio</a> 
 
 <h3 align="left">How to reach me:</h3>
